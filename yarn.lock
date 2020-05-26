@@ -858,7 +858,6 @@
 "@sanity/cli@^1.149.13":
   version "1.149.13"
   resolved "https://registry.yarnpkg.com/@sanity/cli/-/cli-1.149.13.tgz#1052d6d011906e5ca9c52292a8728760ea7a0b29"
-  integrity sha512-+iuK4z5iJQqzVKN//YSklpWxBdaOe5UTawLkkiPvRcb99iTojc26zex0UIf1jnLBm85+YBcFGTVhk2DuPMpbrA==
 
 "@sanity/client@1.149.13":
   version "1.149.13"
@@ -6893,6 +6892,10 @@ safe-regex@^1.1.0:
 same-origin@^0.1.1:
   version "0.1.1"
   resolved "https://registry.npmjs.org/same-origin/-/same-origin-0.1.1.tgz#c2287d3192577df517acbbd6d1451a9c3c3914f5"
+
+sanity-plugin-asset-source-cloudinary@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.npmjs.org/sanity-plugin-asset-source-cloudinary/-/sanity-plugin-asset-source-cloudinary-0.1.0.tgz#bb4171abb10ffc74f86a021a774d8b3ff21d07d4"
 
 sax@~1.2.4:
   version "1.2.4"
